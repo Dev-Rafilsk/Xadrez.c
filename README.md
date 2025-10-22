@@ -1,2 +1,2 @@
 # Xadrez.c
-Projeto em C solicitado pela faculdade.
+Projeto em C treino de logica.

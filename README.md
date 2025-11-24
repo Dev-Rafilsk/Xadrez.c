@@ -1,1 +1,1 @@
-Implementação completa de um jogo de Xadrez em C, com validação de movimentos e lógica de matrizes.
+Sistema completo de Xadrez desenvolvido em C. Implementa lógica de validação de movimentos, regras especiais, matrizes e encapsulamento de peças.
